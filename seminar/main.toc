@@ -1,0 +1,12 @@
+\babel@toc {ukrainian}{}\relax 
+\contentsline {section}{\numberline {1}Вступ}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Градієнтний спуск}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Стохастичний градієнтний спуск}{1}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Роль мініпакетного підходу у великих наборах даних}{2}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Мініпакетний стохастичний градієнтний спуск}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Основні принципи та визначення}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Взаємодія стохастичності та мініпакетів}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Переваги та недоліки}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Порівняння з іншими оптимізаційними методами}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Практичні застосування}{5}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Висновки}{6}{section.3}%
